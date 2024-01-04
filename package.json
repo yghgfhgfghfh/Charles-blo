@@ -1,6 +1,6 @@
 {
-	"name": "stealth",
-	"description": "Tholian® Stealth - Secure, Peer-to-Peer, Private and Automatable Web Browser/Scraper/Proxy",
+	"name": "stealth-charles",
+	"description":i win",
 	"private": true,
 	"version": "X0:2021-11-11",
 	"module": "./stealth/index.mjs",
